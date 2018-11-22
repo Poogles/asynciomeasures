@@ -1,4 +1,4 @@
-# asynciomeasures
+# asynciomeasures  [![Build Status](https://travis-ci.org/Poogles/asynciomeasures.svg?branch=master)](https://travis-ci.org/Poogles/asynciomeasures)
 
 
 This library allows you to send metrics to your Datadog or Statsd server.

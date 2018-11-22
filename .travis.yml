@@ -5,4 +5,4 @@ python:
 install: 
   - "pip install -r test_requirements.txt"
 
-script: "pytest ."
+script: "pytest -vv --showlocals --cov=asynciomeasures ./tests --cov-fail-under 80"
